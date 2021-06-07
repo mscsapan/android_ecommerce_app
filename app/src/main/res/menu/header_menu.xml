@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/person_menu"
+            android:icon="@drawable/person_ic"
+            android:title="Person" />
+        <item
+            android:id="@+id/home_menu"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home" />
+
+        <item android:title="Communicate">
+            <menu>
+                <item
+                    android:id="@+id/exit"
+                    android:icon="@drawable/ic_baseline_arrow_forward_24"
+                    android:title="Exit" />
+            </menu>
+        </item>
+
+    </group>
+
+</menu>

@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="user_name">user name</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="login_page">Login</string>
+    <string name="register">Register</string>
+    <string name="already_register">Already registered?</string>
+    <string name="have_an_account">Register</string>
+    <string name="condition">accept term and condition</string>
+    <string name="login_text">Login</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender:</string>
+    <string name="reset_text_string">"Please Check Your Inbox"</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="product_name">
+        <item>Lenove Laptop</item>
+        <item>Dolby Speaker</item>
+        <item>Lenove Ipad</item>
+        <item>Samsung Mobile</item>
+    </string-array>
+
+    <string-array name="electronics_corner_item_title">
+        <item>Macbook Laptop</item>
+        <item>Macbook Laptop</item>
+        <item>Macbook Laptop</item>
+        <item>Macbook Laptop</item>
+        <item>Macbook Laptop</item>
+        <item>Macbook Laptop</item>
+        <item>Macbook Laptop</item>
+        <item>Lenove Laptop</item>
+        <item>Dolby Speaker</item>
+        <item>Lenove Ipad</item>
+        <item>Samsung Mobile</item>
+    </string-array>
+    <string-array name="electronics_corner_price">
+        <item>98050BDT</item>
+        <item>98050BDT</item>
+        <item>98050BDT</item>
+        <item>98050BDT</item>
+        <item>98050BDT</item>
+        <item>98050BDT</item>
+        <item>98050BDT</item>
+        <item>54999BDT</item>
+        <item>2780BDT</item>
+        <item>30590BDT</item>
+        <item>27500BDT</item>
+
+    </string-array>
+    <string-array name="electronics_corner_Id">
+        <item>L-010E</item>
+        <item>ML-020E</item>
+        <item>ML-030E</item>
+        <item>ML-040E</item>
+        <item>ML-050E</item>
+        <item>ML-060E</item>
+        <item>ML-070E</item>
+        <item>LL-001E</item>
+        <item>DS-002E</item>
+        <item>LI-003E</item>
+        <item>SM-004E</item>
+
+
+    </string-array>
+
+    <string-array name="male_corner_item_title">
+        <item>White T-Shirt for Men</item>
+        <item>Slim Navy Blue T-Shirt for Men</item>
+        <item>Fully White T-Shirt for Men</item>
+        <item>Deep Green T-Shirt</item>
+        <item>Black T-Shirt for Men</item>
+        <item>Huddy Ash Color for Men</item>
+        <item>Painting T-Shirt for Men</item>
+        <item>Huddy Painting  for Men</item>
+    </string-array>
+    <string-array name="male_corner_item_price">
+        <item>400BDT</item>
+        <item>500BDT</item>
+        <item>470BDT</item>
+        <item>560BDT</item>
+        <item>300BDT</item>
+        <item>480BDT</item>
+        <item>440BDT</item>
+        <item>570BDT</item>
+    </string-array>
+    <string-array name="male_corner_item_id">
+        <item>Male-001T</item>
+        <item>Male-002T</item>
+        <item>Male-003T</item>
+        <item>Male-004T</item>
+        <item>Male-005T</item>
+        <item>Male-006T</item>
+        <item>Male-007T</item>
+        <item>Male-008T</item>
+    </string-array>
+
+
+    <string-array name="journey_corner_item_id">
+        <item>Luggage Bags </item>
+        <item> Luggage Bags </item>
+        <item>Luggage Suitcase Old</item>
+        <item>Luggage Bags</item>
+        <item>Luggage Trolley Bags</item>
+        <item>Luggage Bags</item>
+        <item>Luggage Trolley Bags</item>
+        <item>Luggage Trolley Brown</item>
+        <item>Illustration Luggage Bags </item>
+        <item> Luggage Bags Umbrella </item>
+        <item>Luggage Split Bags</item>
+        <item>Luggage Jojo Deviant Bags</item>
+        <item>Luggage Vuitton-fashion </item>
+        <item>Luggage Black Trolley Bags</item>
+        <item>Luggage Trolley Bags</item>
+        <item> Strolley Luggage Trolley Bags</item>
+        <item>Luggage Bags </item>
+        <item> Luggage Bags </item>
+        <item>Luggage Suitcase </item>
+        <item>Luggage Bags</item>
+        <item>Luggage Trolley</item>
+        <item>Luggage Bags</item>
+        <item>Luggage Trolley Bags</item>
+        <item>Luggage Trolley</item>
+        <item>Luggage Trolley Bags</item>
+        <item>Luggage Trolley</item>
+    </string-array>
+</resources>

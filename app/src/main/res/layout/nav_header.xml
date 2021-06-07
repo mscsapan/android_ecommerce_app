@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="240dp"
+    android:background="#00BCD4">
+    <ImageView
+        android:id="@+id/nav_image"
+        android:layout_width="140dp"
+        android:layout_height="110dp"
+        android:src="@drawable/mee"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp" />
+    <TextView
+        android:id="@+id/nav_name_tv"
+        android:layout_below="@id/nav_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:textSize="22sp"
+        android:text="Mohammad Sapan"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="6dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/nav_mail_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nav_name_tv"
+        android:layout_centerHorizontal="true"
+        android:text="mscsapan@gmail.com"
+        android:textColor="@android:color/white"
+        android:textSize="16sp" />
+
+
+</RelativeLayout>
